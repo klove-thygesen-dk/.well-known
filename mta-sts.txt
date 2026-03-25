@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: onetech-dk.b-v1.mx.microsoft
+mx: klovethygesen-dk01c.s-v1.mx.microsoft
 max_age: 604800
